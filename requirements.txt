@@ -1,4 +1,0 @@
-easydict
-easydl
-tensorboardX
-tqdm
